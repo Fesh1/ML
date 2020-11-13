@@ -1,4 +1,4 @@
-This is my solution to the problem of finding motorists in the database of some mobile operator. 
+This is my solution to the problem of finding drivers in the database of some mobile operator. 
 
 this database contains 50 features for more than 5000 users, 
 one record - one month, for one user there are 12 records (year)
